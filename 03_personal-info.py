@@ -4,7 +4,7 @@ Created on Thu Feb  3 20:44:58 2022
 
 @author: Usuario
 """
-'''
+
 nombre=input("Ingrese Nombre: ")
 print("que mas cesar")
 apellido=input("Ingrese Apellido: ")
